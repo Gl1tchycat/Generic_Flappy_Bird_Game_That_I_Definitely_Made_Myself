@@ -1,6 +1,6 @@
 Definitely a game that I made by myself without AI help.
 
-(i did use AI)
+(JK I did use AI)
 
 thank you to samuelcust for the sprites
 
